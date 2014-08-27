@@ -1,0 +1,19 @@
+Package: BSgenome.Celegans.UCSC.ce10
+Title: Full genome sequences for Caenorhabditis elegans (UCSC version
+        ce10)
+Description: Full genome sequences for Caenorhabditis elegans (Worm) as provided by UCSC (ce10, Oct. 2010) and stored in Biostrings objects.
+Version: 1.3.1000
+Author: The Bioconductor Dev Team
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: BSgenome (>= 1.32.0)
+Imports: BSgenome
+License: Artistic-2.0
+organism: Caenorhabditis elegans
+species: Worm
+provider: UCSC
+provider_version: ce10
+release_date: Oct. 2010
+release_name: WormBase v. WS220
+source_url: http://hgdownload.cse.ucsc.edu/goldenPath/ce10/bigZips/
+biocViews: AnnotationData, Genetics, BSgenome, Caenorhabditis_elegans
+Packaged: 2014-06-18 16:11:57 UTC; hpages
